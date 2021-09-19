@@ -82,5 +82,89 @@
         "engdesc3": "Indiraa-Mandiram Cetasaa Sundaram",
         "engdesc4": "Devakii-Nandanam Nanda-Jam San-Dadhe ||2||",
         "image": "https:\/\/iosacademy.io\/assets\/images\/courses\/messenger.png"
-    }
+    },
+    {
+        "id": "8",
+        "line1": "अच्युतं केशवं रामनारायणं",
+        "line2": "कृष्णदामोदरं वासुदेवं हरिम् ।",
+        "line3": "श्रीधरं माधवं गोपिकावल्लभं",
+        "line4": "जानकीनायकं रामचंद्रं भजे ॥",
+        "engdesc1": "Acyutam Keshavam Raama-Naaraayannam",
+        "engdesc2": "Krssnna-Daamodaram Vaasudevam Harim |",
+        "engdesc3": "Shrii-Dharam Maadhavam Gopikaa-Vallabham",
+        "engdesc4": "Jaanakii-Naayakam Raamacamdram Bhaje ||",
+        "image": "https://iosacademy.io/assets/images/courses/tiktok.png"
+        },
+        {
+        "id": "9",
+        "line1": "अच्युतं केशवं सत्यभामाधवं",
+        "line2": "माधवं श्रीधरं राधिकाराधितम् ।",
+        "line3": "इन्दिरामन्दिरं चेतसा सुन्दरं",
+        "line4": "देवकीनन्दनं नन्दजं सन्दधे ॥२॥",
+        "engdesc1": "Acyutam Keshavam Satyabhaamaa-Dhavam",
+        "engdesc2": "Maadhavam Shrii-Dharam Raadhika-[A]araadhitam |",
+        "engdesc3": "Indiraa-Mandiram Cetasaa Sundaram",
+        "engdesc4": "Devakii-Nandanam Nanda-Jam San-Dadhe ||2||",
+        "image": "https://iosacademy.io/assets/images/courses/stocks-app.png"
+        },
+        {
+        "id": "10",
+        "line1": "अच्युतं केशवं रामनारायणं",
+        "line2": "कृष्णदामोदरं वासुदेवं हरिम् ।",
+        "line3": "श्रीधरं माधवं गोपिकावल्लभं",
+        "line4": "जानकीनायकं रामचंद्रं भजे ॥",
+        "engdesc1": "Acyutam Keshavam Raama-Naaraayannam",
+        "engdesc2": "Krssnna-Daamodaram Vaasudevam Harim |",
+        "engdesc3": "Shrii-Dharam Maadhavam Gopikaa-Vallabham",
+        "engdesc4": "Jaanakii-Naayakam Raamacamdram Bhaje ||",
+        "image": "https://iosacademy.io/assets/images/courses/instagram.png"
+        },
+        {
+        "id": "11",
+        "line1": "अच्युतं केशवं सत्यभामाधवं",
+        "line2": "माधवं श्रीधरं राधिकाराधितम् ।",
+        "line3": "इन्दिरामन्दिरं चेतसा सुन्दरं",
+        "line4": "देवकीनन्दनं नन्दजं सन्दधे ॥२॥",
+        "engdesc1": "Acyutam Keshavam Satyabhaamaa-Dhavam",
+        "engdesc2": "Maadhavam Shrii-Dharam Raadhika-[A]araadhitam |",
+        "engdesc3": "Indiraa-Mandiram Cetasaa Sundaram",
+        "engdesc4": "Devakii-Nandanam Nanda-Jam San-Dadhe ||2||",
+        "image": "https://iosacademy.io/assets/images/courses/swiftui-chat-app.png"
+        },
+        {
+        "id": "12",
+        "line1": "अच्युतं केशवं रामनारायणं",
+        "line2": "कृष्णदामोदरं वासुदेवं हरिम् ।",
+        "line3": "श्रीधरं माधवं गोपिकावल्लभं",
+        "line4": "जानकीनायकं रामचंद्रं भजे ॥",
+        "engdesc1": "Acyutam Keshavam Raama-Naaraayannam",
+        "engdesc2": "Krssnna-Daamodaram Vaasudevam Harim |",
+        "engdesc3": "Shrii-Dharam Maadhavam Gopikaa-Vallabham",
+        "engdesc4": "Jaanakii-Naayakam Raamacamdram Bhaje ||",
+        "image": "https://iosacademy.io/assets/images/courses/Spotify.png"
+        },
+        {
+        "id": "13",
+        "line1": "अच्युतं केशवं सत्यभामाधवं",
+        "line2": "माधवं श्रीधरं राधिकाराधितम् ।",
+        "line3": "इन्दिरामन्दिरं चेतसा सुन्दरं",
+        "line4": "देवकीनन्दनं नन्दजं सन्दधे ॥२॥",
+        "engdesc1": "Acyutam Keshavam Satyabhaamaa-Dhavam",
+        "engdesc2": "Maadhavam Shrii-Dharam Raadhika-[A]araadhitam |",
+        "engdesc3": "Indiraa-Mandiram Cetasaa Sundaram",
+        "engdesc4": "Devakii-Nandanam Nanda-Jam San-Dadhe ||2||",
+        "image": "https://iosacademy.io/assets/images/courses/swiftui.png"
+        },
+        {
+        "id": "14",
+        "line1": "अच्युतं केशवं सत्यभामाधवं",
+        "line2": "माधवं श्रीधरं राधिकाराधितम् ।",
+        "line3": "इन्दिरामन्दिरं चेतसा सुन्दरं",
+        "line4": "देवकीनन्दनं नन्दजं सन्दधे ॥२॥",
+        "engdesc1": "Acyutam Keshavam Satyabhaamaa-Dhavam",
+        "engdesc2": "Maadhavam Shrii-Dharam Raadhika-[A]araadhitam |",
+        "engdesc3": "Indiraa-Mandiram Cetasaa Sundaram",
+        "engdesc4": "Devakii-Nandanam Nanda-Jam San-Dadhe ||2||",
+        "image": "https://iosacademy.io/assets/images/courses/messenger.png"
+        }
 ]
